@@ -1,7 +1,7 @@
 package repository
 
 import (
-	models "Fiber_Api/models"
+	models "Fiber_Api_/models"
 	reflect "reflect"
 
 	gomock "github.com/golang/mock/gomock"
